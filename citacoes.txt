@@ -3,3 +3,5 @@
 "Hasta la vista, baby." (Exterminador do Futuro 2)
 "Ola"
 "Ol-a master"			
+"Olá b.0.0.1"
+
